@@ -1,4 +1,4 @@
-# Facebook-messenger-chatbot
+# SpaceBot - Facebook messenger chatbot
 A Flask and Dialogflow chatbot.
 The bot is programmed such that it tells you live location of International space station along with names of astronauts currently in space. It tells you facts about space, numbers and years.
 Programmed to tell you the date and time when space station will cross over a particular location.
